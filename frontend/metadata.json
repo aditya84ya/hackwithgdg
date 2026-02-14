@@ -1,0 +1,8 @@
+{
+  "name": "VOCA AI Lead Gen",
+  "description": "Next-gen AI voice platform for automated lead generation and management using Gemini Live API and ElevenLabs concepts.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
